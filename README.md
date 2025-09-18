@@ -19,7 +19,7 @@ GPA: 3.94/4.00
 - Environmental Science, Engineering, statistical learning, GIS, Econometrics, Teamwork.
 
 ## How to Reach me: 
-email: Gavin.scoville@gmail.com 
+Email: Gavin.scoville@gmail.com 
 
 Linked in: www.linkedin.com/in/gavin-scoville-baa3b8322
 
