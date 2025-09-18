@@ -1,5 +1,5 @@
 ## Hi, I'm Gavin Scoville
-I have a passion to develop sustainable and prosperous environmental-ecological systems. 
+I have a passion to develop sustainable and prosperous solutions to water resources management. My background in economics, environmental science, and quantitative methods equips me to approach water cycle challenges from both physical and socio-economic perspectives. 
 
 ## Education: 
 B.A Economics with Math and Environmental Science Minors 
@@ -9,9 +9,11 @@ GPA: 3.94/4.00
 
 ### Concentrating solar power (CSP) systems particle heating: 
 
-### Tree Ecology tree-ring width data project: 
+### Tree ecology tree-ring-width datascience project: 
 
 ### Rasberry Pi powered scientific instruiments: 
+
+### Presentaion 
 
 ## Skills: 
 - programming in R, Python, STATA, and a little Javascript
