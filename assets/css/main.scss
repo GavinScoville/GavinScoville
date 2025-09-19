@@ -36,3 +36,12 @@ search: false
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }
+/* click through carousel*/
+.slide-carousel img {
+  width: 100%;
+  max-height: 600px;  // adjust as needed
+  object-fit: contain; // keeps aspect ratio
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  margin: 0 auto;
+}

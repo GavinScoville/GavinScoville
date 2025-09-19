@@ -232,3 +232,15 @@ $(document).ready(function () {
       });
   }
 });
+
+//For making click-through slides
+$(document).ready(function(){
+  $('.slide-carousel').slick({
+    dots: true,           // shows navigation dots
+    arrows: true,         // shows left/right arrows
+    infinite: false,      // stops at last slide
+    slidesToShow: 1,      // one slide at a time
+    slidesToScroll: 1,
+    adaptiveHeight: true, // adjusts height to each slide
+  });
+});
