@@ -1,10 +1,8 @@
 ---
 title: "Bio"
 layout: single
-permalink: /
+permalink: /bio/
 ---
-
-
 
 ## Hi, I'm Gavin Scoville
 I have a passion to develop sustainable and prosperous solutions to water resource management. My background in economics, environmental science, and quantitative methods equips me to approach water cycle challenges from both a physical and socio-economic perspective. 
