@@ -4,4 +4,4 @@ layout: home
 permalink: /
 ---
 
-{% include README.md %}
+{% include bio_content.md %}
