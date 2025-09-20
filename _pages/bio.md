@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "Biography"
 layout: single
 permalink: /bio/
 ---
@@ -18,8 +18,8 @@ GPA: 3.94/4.00
 
 ## How to Reach me: 
 Email: Gavin.scoville@gmail.com 
-
-Linked in: www.linkedin.com/in/gavin-scoville-baa3b8322
+509-408-2425
+www.linkedin.com/in/gavin-scoville-baa3b8322
 
 <!--
 {% include bio_content.md %}
