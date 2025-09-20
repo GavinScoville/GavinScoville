@@ -1,6 +1,6 @@
 ---
 title: "Bio"
-layout: home
+layout: single
 permalink: /
 ---
 
