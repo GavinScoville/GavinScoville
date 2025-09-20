@@ -11,10 +11,6 @@ I have a passion to develop sustainable and prosperous solutions to water resour
 B.A Economics with Math and Environmental Science Minors 
 GPA: 3.94/4.00 
 
-## Portofolio:
-https://gavinscoville.github.io/GavinScoville/ 
-## Featured Projects on Portfolio:
-
 ## Skills: 
 - programming in R, Python, STATA, and a little Javascript
 - Data analysis with ggplot2, dplyr, pandas, scikit and matplotlib
