@@ -3,4 +3,5 @@ title: "Bio"
 layout: home
 permalink: /
 ---
-#About me 
+
+{% include README.md %}
