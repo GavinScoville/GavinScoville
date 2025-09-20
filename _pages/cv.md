@@ -9,4 +9,4 @@ permalink: /cv/
 
 You can download my CV here:
 
-[📄 Download my CV (PDF)](/assets/Scoville_CV.pdf)
+[Download my CV (PDF)]({{ site.baseurl }}/assets/Scoville_CV.pdf)
