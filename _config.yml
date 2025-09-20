@@ -326,11 +326,3 @@ defaults:
       share: true
       related: true
 
-#navigation
-navigation:
-  - title: "Bio"
-    url: /
-  - title: "Curriculum Vitae"
-    url: /cv/
-  - title: "Portfolio"
-    url: /portfolio/
