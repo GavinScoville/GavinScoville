@@ -1,11 +1,11 @@
 ---
-title: "Projects"
-permalink: /projects/
-layout: single
+title: "Portfolio"
+layout: collection
+collection: posts
+entries_layout: grid
+permalink: /portfolio/
 ---
-# My Projects
 
-Here’s a list of projects I’m working on:
+# Portfolio
 
-- Project 1: Description
-- Project 2: Description
+Here are some of my projects:
