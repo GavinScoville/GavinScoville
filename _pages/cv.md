@@ -4,9 +4,6 @@ layout: single
 permalink: /cv/
 ---
 
-# Curriculum Vitae
+You can download my Curriculum Vitae here:
 
-
-You can download my CV here:
-
-[Download my CV (PDF)]({{ site.baseurl }}/assets/Scoville_CV.pdf)
+[Gavin Scoville's CV (PDF)]({{ site.baseurl }}/assets/Scoville_CV.pdf)
