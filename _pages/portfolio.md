@@ -6,6 +6,4 @@ entries_layout: single
 permalink: /portfolio/
 ---
 
-# Portfolio
-
-Here are some of my projects:
+Here are some of my past projects:

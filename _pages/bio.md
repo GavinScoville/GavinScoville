@@ -8,7 +8,8 @@ permalink: /bio/
 I have a passion to develop sustainable and prosperous solutions to water resource management. My background in economics, environmental science, and quantitative methods equips me to approach water cycle challenges from both a physical and socio-economic perspective. 
 
 ## Education: 
-B.A Economics with Math and Environmental Science Minors 
+B.A Economics at 
+Minors: Math and Environmental Science  
 GPA: 3.94/4.00 
 
 ## Skills: 
