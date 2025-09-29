@@ -21,7 +21,7 @@ title                    : "Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gavin Scoville"
-description              : "Gavin Scoville's Portfolio"
+description              : #"Gavin Scoville's Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/GavinScoville/GavinScoville "# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,11 +115,11 @@ analytics:
 author:
   name             : "Gavin Scoville"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The Portfolio of Gavin Scoville"
+  bio              : "Personal Website"
   location         : "Seattle, WA"
-  email            : "gavin.scoville@gmail.com"
+  #email            : "gavin.scoville@gmail.com"
   links:
-    - label: "email me"
+    - label: "Email me"
       icon: "fas fa-fw fa-envelope-square"
       url: "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJTCfqZXbZPrlWDVTfmsfTmPZjjSbfLqsKVnlcpPlDHkWmxfGvVfhkbshnTFmtFhKQzg"
     - label: "Website"
@@ -321,7 +321,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: #true
       comments: # true
       share: true
       related: true
