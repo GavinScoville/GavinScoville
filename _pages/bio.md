@@ -13,16 +13,16 @@ Minors: Math and Environmental Science
 GPA: 3.94/4.00 
 
 ## Skills: 
-*Technical/Programming:*  
+*Technical/Programming:*    
     R programming language, Python, Github, STATA, SQL, GIS
 
-*Research and Data Skills:* 
+*Research and Data Skills:*        
     Handling large and messy time-series datasets for ecological, hydrological, and behavior modeling. Applying machine learning methods to identify complex patterns. Interpreting messy data to motivate decision making
 
-*Field/Lab Methods:* 
+*Field/Lab Methods:*             
     Fluvial Sedimentation Analysis, Discharge Measurement, Sediment Coring, Tension and Compression Testing, River Flow Monitoring, Tree Coring, Riparian Habitat Assessments
 
-*Field Skills:*  
+*Field Skills:*     
     Back County Navigation, backpacking, climbing, equipment maintenance and repair, operating heavy equipment, operating motorized and non-modernized water vessels, First Aid
 
 ## How to Reach me: 
