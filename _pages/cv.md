@@ -12,5 +12,3 @@ date : 29-09-2025
 
 You can download my Curriculum Vitae here:
 [Gavin Scoville's CV (PDF)]({{ site.baseurl }}/assets/Scoville_CV.pdf)
-
-/Users/gavinscoville/Desktop/Portfolio/GavinScoville/assets/images/2025-09-24-CV/page1.png
