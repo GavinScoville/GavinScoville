@@ -11,9 +11,9 @@ My research interests revolve around solutions to some of the world’s most cha
 Because the water cycle trickles through every aspect of our economy and ecology; this resource requires an interdisciplinary management approach. I am excited to apply my diverse background, love of stochastic systems, strong quantitative skills, and unending passion for creative problem solving to researching hydrological systems.
 
 ## Education: 
-B.A Economics at Westen Washington University
-Minors: Math and Environmental Science  
-GPA: 3.94/4.00 
+B.A Economics at Westen Washington University       
+Minors: Math and Environmental Science      
+GPA: 3.94/4.00  
 
 ## Skills: 
 *Technical/Programming:*    
@@ -29,7 +29,7 @@ GPA: 3.94/4.00
     Back County Navigation, backpacking, climbing, equipment maintenance and repair, operating heavy equipment, operating motorized and non-modernized water vessels, first aid
 
 ## How to Reach me: 
-Email: Gavin.scoville@gmail.com     
+email: gavin.scoville@gmail.com     
 509-408-2425    
 www.linkedin.com/in/gavin-scoville-baa3b8322
 
