@@ -3,7 +3,7 @@ title: "Biography"
 layout: single
 permalink: /bio/
 ---
-<img src="{{ site.baseurl }}/assets/images/bwgavin.jpg" alt="" class = "full" >
+<img src="{{ site.baseurl }}/assets/images/bwgavin.JPG" alt="" class = "full" >
 
 ## Hi, I'm Gavin Scoville
 My research interests revolve around solutions to some of the world’s most challenging water resource issues. As resource issues have changed over time, my focus has moved from preventative measures such as utilizing environmental economics to internalize water pollution externalities, towards adaptive strategies such as building artificial reef structures. 
