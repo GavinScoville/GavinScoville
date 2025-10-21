@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Fort Ebey Surf Report — 2025-10-21 14:57 PDT"
+layout: single
+title: "Fort Ebey Surf Report"
 categories: [portfolio]
+date: 2025-10-21
 ---
 # 🌊 Fort Ebey Surf Report
-**Updated:** 2025-10-21 14:57 PDT (Pacific Time)
+**Updated:** 2025-10-21 15:07 PDT
 ---
 ## 🌅 Neah Bay (46087)
 - **Wave height:** 3.5 m  
