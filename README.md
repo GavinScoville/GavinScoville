@@ -1,5 +1,5 @@
 ## Hi, I'm Gavin Scoville
-I have a passion to develop sustainable and prosperous solutions to water resource management. My background in economics, environmental science, and quantitative methods equips me to approach water cycle challenges from both a physical and socio-economic perspective. 
+I have a passion to develop sustainable and prosperous solutions to water resource issues. My background in economics, environmental science, and math equips me to approach water cycle challenges from both a physical and economic perspective. 
 
 ## Education: 
 B.A Economics with Math and Environmental Science Minors 
@@ -15,7 +15,7 @@ https://gavinscoville.github.io/GavinScoville/
 - Environmental science, engineering, statistical learning, GIS, Econometrics, Teamwork.
 
 ## How to Reach me: 
-Email: Gavin.scoville@gmail.com 
+Email: gavin.scoville@gmail.com 
 
 Linked in: www.linkedin.com/in/gavin-scoville-baa3b8322
 
