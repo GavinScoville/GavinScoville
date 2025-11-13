@@ -20,5 +20,3 @@ No Doppler shifting from currents and no wind–wave interactions
 My next goal is to build a wave model capable of simulating multi-spectrum wave–wave interactions, diffraction, and refraction using PDEs. Maybe on a Geodesic grid. It might be a while…
 
 [See the most recent Salish Sea Surf Report ->](https://github.com/GavinScoville/Buoy-Proj/blob/main/Salish-Surf-Report.md)
-
-"{{ site.baseurl }}/assets/images/Bowl_Shape.png"
