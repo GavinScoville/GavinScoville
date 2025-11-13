@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis of Coal Fly Ash"
+title: "Salish Sea Surf Reoprt"
 categories: portfolio
 layout: single
 ---
