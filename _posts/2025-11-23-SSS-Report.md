@@ -1,8 +1,7 @@
 ---
-title: "The Salish Sea Surf Report"
+title: "Data Analysis of Coal Fly Ash"
 categories: portfolio
 layout: single
-date: 2025-11-23
 ---
 
 This project started as a way to get automatic emails when the waves near Bellingham look good for surfing. The model updates every 15 minutes, sends out an email if need be, and creates a historical archive for the eventual training of a stochastic model. Please contact me if you want to be on the automatic email serve (~5 emails a month in the winter). 
