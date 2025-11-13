@@ -9,9 +9,10 @@ This project started as a way to get automatic emails when the waves near Bellin
 
 There are currently no public ocean wave models built to represent the bathymetry of the Salish Sea. My [Salish Sea Surf Report](https://github.com/GavinScoville/Buoy-Proj/blob/main/Salish-Surf-Report.md) is a bare-bones model, updated every 15 minutes. As of this post, it follows the path of waves across the Pacific using spherical trigonometry. It then applies a refraction model for waves entering the Salish Sea, using ray tracing to identify regions of convergence and divergence. Below are example maps from Nov 12, 2025. 
 
-<img src="/assets/images/pacific.png" alt="Wave Path in the Pacific"/>
-
-1,600 km off the west coast, the Ocean Papa bouy picks up wave data. Using the dominant period duration, mean wave direction, and significant wave height, we can infer the trajectory and phase speed of waves as they move across our spherical earth.
+<figure>
+  <img src="/assets/images/pacific.png" alt="Wave Path in the Pacific"/>
+  <figcaption>1,600 km off the west coast, the Ocean Papa bouy picks up wave data. Using the dominant period duration, mean wave direction, and significant wave height, we can infer the trajectory and phase speed of waves as they move across our spherical earth.</figcaption>
+</figure>
 
 <img src="/assets/images/Strait.png" alt="Waves Refracting in the Strait"/>
 
