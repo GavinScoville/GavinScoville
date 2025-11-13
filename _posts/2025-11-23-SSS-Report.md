@@ -18,10 +18,10 @@ There are currently no public ocean wave models built to represent the bathymetr
     <figcaption>At the mouth of the Salish Sea, a Neah Bay bouy gives us monocromatic directional wave data. This ray-tracing diagram is a heuristic model to show how the coastline will bend and refract waves at different wavelengths and directions. Right now there is a limited algorithm to predict wave height by holding energy flux between the rays constant.</figcaption>
 </figure>
 
-
+<img src="{{ site.baseurl }}/assets/images/Island.png" alt="Waves Refracting in the Islands" />
 
 </figure>
-    <img src="{{ site.baseurl }}/assets/images/Island.png" alt="Waves Refracting in the Islands"/>
+    <img src="{{ site.baseurl }}/assets/images/Island.png" alt="Waves Refracting in the Islands" />
     <figcaption>Using the same algorithm, the rays in this wave map are a linear interpolation of the wave data from the Port Angelis Bouy to the New Dungeness Bouy. </figcaption>
 </figure>
 
@@ -39,3 +39,4 @@ My next goal is to build a wave model capable of simulating multi-spectrum waveâ
 
 [See the most recent Salish Sea Surf Report ->](https://github.com/GavinScoville/Buoy-Proj/blob/main/Salish-Surf-Report.md)
 
+"{{ site.baseurl }}/assets/images/Bowl_Shape.png"
