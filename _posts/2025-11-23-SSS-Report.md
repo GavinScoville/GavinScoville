@@ -10,11 +10,11 @@ There are currently no public ocean wave models built to represent the bathymetr
 
 **Current limitations include:**
 
-A) No diffraction  
-B) No nonlinear wave interactions  
-C) Wave data is monochromatic — only dominant period, significant wave height, and mean direction are available; full spectral data is not currently accessible. 
-D) No Coriolis effect  
-E) No Doppler shifting from currents and no wind–wave interactions  
+No diffraction  
+No nonlinear wave interactions  
+Wave data is monochromatic — only dominant period, significant wave height, and mean direction are available; full spectral data is not currently accessible. 
+No Coriolis effect  
+No Doppler shifting from currents and no wind–wave interactions  
 
 **Next Steps:**  
 My next goal is to build a wave model capable of simulating multi-spectrum wave–wave interactions, diffraction, and refraction using PDEs. Maybe on a Geodesic grid. It might be a while…
