@@ -7,3 +7,4 @@ permalink: /portfolio/
 ---
 
 Here are some of my past projects:
+
