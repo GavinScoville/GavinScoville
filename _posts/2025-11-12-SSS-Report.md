@@ -4,13 +4,13 @@ categories: portfolio
 layout: single
 ---
 
-There are currently no public ocean wave models built to represent the bathymetry of the Salish Sea. The [Salish Sea Surf Report](https://github.com/GavinScoville/Buoy-Proj/blob/main/Salish-Surf-Report.md) is a bare-bones model, updated every 15 minutes. As of this post, it follows the path of waves across the Pacific using spherical trigonometry. It then applies a refraction model for waves entering the Salish Sea, using ray tracing to identify regions of convergence and divergence. Below are example maps from Nov 12, 2025. 
+There are currently no publicly available wave models representing the bathymetry of the Salish Sea. The [Salish Sea Surf Report](https://github.com/GavinScoville/Buoy-Proj/blob/main/Salish-Surf-Report.md) is updated every 15 minutes. As of this post, it follows the path of waves across the Pacific using spherical trigonometry. It then applies a refraction model to waves entering the Salish Sea, utilising ray tracing to identify regions of convergence and divergence. Below are example maps from Nov 12, 2025. 
 
 <img src="{{ site.baseurl }}/assets/images/pacific.png" alt="Wave Path in the Pacific"/> 
 
 1,600 km off the west coast, the Ocean Papa bouy picks up wave data. Using the dominant period duration, mean wave direction, and significant wave height, we can infer the trajectory and phase speed of waves as they move across our spherical earth. 
 
-<img src="{{ site.baseurl }}/assets/images/Strait.png" alt="Waves Refracting in the Strait"/> At the mouth of the Salish Sea, a Neah Bay bouy gives us monocromatic wave data. This is a ray-tracing diagram to show how thes simplified waves refract as they move across the bathymetry. Right now there is a limited algorithm to predict wave height by holding energy flux constant.
+<img src="{{ site.baseurl }}/assets/images/Strait.png" alt="Waves Refracting in the Strait"/> At the mouth of the Salish Sea, a Neah Bay bouy gives us monocromatic wave data. This is a ray-tracing diagram to show how these simplified waves refract as they move across the bathymetry. My model uses a limited algorithm to predict wave height by holding energy flux constant.
 
  <img src="{{ site.baseurl }}/assets/images/Island.png" alt="Waves Refracting in the Islands"/> 
  Using the same algorithm, the rays in this wave map are a linear interpolation of the waves from the Port Angelis Bouy to the New Dungeness Bouy.
@@ -24,7 +24,7 @@ There are currently no public ocean wave models built to represent the bathymetr
  - No Doppler shifting from currents and no wind–wave interactions  
 
 **Next Steps:**  
-My next goal is to build a wave model capable of simulating multi-spectrum wave–wave interactions, diffraction, and refraction using PDEs. Maybe on a Geodesic grid. It may be a while.
+My next goal is to build a wave model capable of simulating multi-spectrum wave–wave interactions, diffraction, and refraction using Navier-Stokes equations. Maybe on a Geodesic grid. It may be a while.
 
 **Email List Serve**
 This project started as a way to get automatic emails when the waves near Bellingham look good for surfing. The model updates every 15 minutes, sends out an email if need be, and creates a historical archive of training data. Please contact me if you want to be on the automatic email serve (~5 emails a month in the winter). 
