@@ -30,6 +30,6 @@ Using the same algorithm, the rays in this wave map are a linear interpolation o
 My next goal is to build a wave model capable of simulating multi-spectrum wave–wave interactions, diffraction, and refraction using Navier–Stokes equations. Maybe on a geodesic grid. It may be a while.
 
 **Email List Serve**  
-This project started as a way to get automatic emails when the waves near Bellingham look good for surfing. The model updates every 15 minutes, sends out an email if need be, and creates a historical archive of training data. Please contact me if you want to be on the automatic email listserv (~5 emails a month in the winter). 
+This project started as a way to get automatic emails when the waves near Fort Ebey look good for surfing. The model updates every 15 minutes, sends out an email if need be, and creates a historical archive of training data. Please contact me if you want to be on the automatic email list serve (~5 emails a month in the winter). 
 
 [See the most recent Salish Sea Surf Report ->](https://github.com/GavinScoville/Buoy-Proj/blob/main/Salish-Surf-Report.md)
