@@ -26,18 +26,20 @@ Wave equation: Using the wave equation, with variable celerity, to model diffrac
 
 <img src="{{ site.baseurl }}/assets/Salish_Sea_Surf/wave_simulation.gif" alt="Wave equation simulation of waves propagating through Salish Sea bathymetry"/>
 
-Surface elevation rendered over the surrounding terrain (drag to rotate, scroll to zoom):
+Surface elevation rendered over the surrounding terrain (It should be interactive):
 
 <iframe src="{{ site.baseurl }}/assets/Salish_Sea_Surf/wave_3d.html" title="Interactive 3D wave surface" width="100%" height="500" style="border:0;" loading="lazy"></iframe>
 
 <a href="{{ site.baseurl }}/assets/Salish_Sea_Surf/wave_3d.html"><img src="{{ site.baseurl }}/assets/Salish_Sea_Surf/wave_3d.png" alt="3D render of modeled surface elevation along the coastline"/></a>
 
 Mild Slope Spectral Methods: 
-I am pulling NOAA Wavewatch III forecasts to use for future surf prediction. This is what every other surf forecasting website does as well. I am also trying to implement a mild slope spectral method, but I would like the opportunity to take higher level math courses to fully understand how to use a Laplace transform for solving the mild slope equation, and include refraction. It is also unsatisfying because of how it cannot implement dispersion. 
+
+I am pulling NOAA Wavewatch III forecasts to use for future surf prediction. This is NOAA's spectral based wave forcast, and it is supposudly mostly reliable for about 7 days of prediction. Every other surf forecasting website is mostly a wrapper for Wavewatch III. I am also trying to implement my own mild slope spectral method, but I would like the opportunity to take higher level math courses to fully understand how to use a Laplace transform for solving the mild slope equations, and include refraction. Irregardless, this method is also unsatisfying because of how it cannot implement diffraction. 
 
 <img src="{{ site.baseurl }}/assets/Salish_Sea_Surf/mild_slope_simulation.png" alt="Mild slope simulation: significant wave height and Iribarren number breaker classification in the Strait of Juan de Fuca"/>
 
 Acoustic Wave Forecast: 
+
 If you multiply the frequency by 2^10 (10 octaves), a 12.5 second period wave is transformed to ~82 Hz, or a low E guitar string. Layering the different swells on top of each other into an acoustic surf forecast is fun, because you can hear the beats caused by similar frequencies. I think it is a more effective way to understand the consistency of a surf break. You can also hear swells from far away make landfall, where dispersion has caused the longer wavelength, longer period waves to travel ahead. Swells begin low pitched, and slowly climb upwards.
 
 <audio controls preload="none" style="width:100%;">
@@ -48,7 +50,7 @@ If you multiply the frequency by 2^10 (10 octaves), a 12.5 second period wave is
 Eulerian Wave Model: 
 Up next, I would like to build a finite volume Eulerian wave model, but I do not currently have time. 
 
-Need for training data: 
+Need for Training Data: 
 I would like to implement stochastic modeling and machine learning techniques. However, I don't have any training datasets besides the difference between the buoy at Neah Bay and the buoy in Port Angeles. I am more interested in seeing how the waves will refract, diffract, and shoal rather than how they will propagate from one buoy to the next. 
 
 
