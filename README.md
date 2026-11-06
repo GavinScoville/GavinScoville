@@ -10,7 +10,7 @@ https://gavinscoville.github.io/GavinScoville/
 ## Featured Projects on Portfolio:
 
 ## Skills: 
-- programming in R, Python, STATA, and a little Javascript
+- Programming in R, Python, STATA, and a little Javascript
 - Data analysis with ggplot2, dplyr, pandas, scikit and matplotlib
 - Environmental science, engineering, statistical learning, GIS, Econometrics, Teamwork.
 
